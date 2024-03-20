@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/drawing/static/css/main.4b8deef7.css",
+    "main.js": "/drawing/static/js/main.246694bc.js",
+    "static/media/PerfectDOSVGA437Win.woff": "/drawing/static/media/PerfectDOSVGA437Win.86368cc9dec15d71c965.woff",
+    "static/media/PerfectDOSVGA437Win.woff2": "/drawing/static/media/PerfectDOSVGA437Win.7dc718899b215fa16aa7.woff2",
+    "static/media/ms_sans_serif.woff": "/drawing/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
+    "static/media/ms_sans_serif_bold.woff": "/drawing/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
+    "static/media/ms_sans_serif.woff2": "/drawing/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/drawing/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
+    "index.html": "/drawing/index.html",
+    "main.4b8deef7.css.map": "/drawing/static/css/main.4b8deef7.css.map",
+    "main.246694bc.js.map": "/drawing/static/js/main.246694bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b8deef7.css",
+    "static/js/main.246694bc.js"
+  ]
+}
